@@ -89,7 +89,7 @@ int main()
 
         cout << "\nArrivederci!";
 
-    system("PAUSE");
+    //system("PAUSE");
     return 0;
     
 }
